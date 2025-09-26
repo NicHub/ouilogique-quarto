@@ -1,0 +1,6 @@
+---
+title: "Mon premier post"
+date: 2025-09-26
+---
+
+Ceci est un billet d’exemple généré automatiquement par le script.
